@@ -1,4 +1,4 @@
-# React Address Autocomplete Component
+# Shadcn Address Autocomplete Component
 
 A reusable React address autocomplete component built with shadcn/ui components and Google Places API.
 
